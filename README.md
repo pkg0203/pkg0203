@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=400&section=header&text=Welcome+to-nl-pkg0203's+profile&fontSize=90)
+
+
 - 👋 Hi, I’m @pkg0203
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-pkg0203/pkg0203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkg0203&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
