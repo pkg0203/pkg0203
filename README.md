@@ -3,14 +3,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkg0203&layout=compact&theme=dark&hide=CMake,ruby&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div align=center><h2>Degree </h2></div>
+<div align=center><h2>🎓 Degree </h2></div>
 
    ### 2024.02 Korea university (Anam), Bachelor's degree
   * #### Major ) Mathematics
   * #### Minor ) Computer
 
-## **🛠️ Skills**
-
+<div align=center><h2>🛠️ Skills </h2></div>
+<div align=center>
+   
 ### Languages
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
