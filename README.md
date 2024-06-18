@@ -16,6 +16,10 @@
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
 
+### Libraries
+
+<a href="https://docs.djangoproject.com/ko/4.2/intro/"><img src="https://img.shields.io/badge/django-80FF00?style=for-the-badge&logo=django&logoColor=black">
+
 ### Tools
 
 <a href="https://slack.com/intl/ko-kr/"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-blue?style=for-the-badge&logo=figma&logoColor=white">
