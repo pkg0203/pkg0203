@@ -28,8 +28,8 @@
 </div>
 
 ### 1. SQLD ( SQL Developer )
-- CA : [Kdata](https://www.dataq.or.kr/www/sub/a_04.do)
+- #### CA : [Kdata](https://www.dataq.or.kr/www/sub/a_04.do)
   
-- Issue Date: 06/2023
+- #### Issue Date : 2024.06.21
   
-- [View Certification](https://www.certification-link.com)
+- #### [View Certification](https://www.certification-link.com)
