@@ -32,4 +32,5 @@
   
 - #### Issue Date : 2024.06.21
   
-- #### [View Certification](https://www.certification-link.com)
+- #### [View Certification](https://github.com/user-attachments/files/15924134/SQLD.pdf)
+
